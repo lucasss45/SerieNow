@@ -56,8 +56,10 @@
     /services           # Funções para interação com o banco de dados
     /functions          # Funções serverless para o back-end
     /config             # Configurações do banco de dados e autenticação
-´´
-🚀 Passos para Rodar o Projeto Localmente
+---
+
+## **🚀 Passos para Rodar o Projeto Localmente**
+
 1. Clone o repositório
 bash
 Copiar
@@ -111,7 +113,8 @@ Para o back-end, configure as funções serverless no Vercel Functions.
 
 Para o front-end, o Vercel cuidará da construção e hospedagem de arquivos estáticos (HTML, CSS, JS).
 
-🚀 Tecnologias Futuras e Melhorias
+## **🚀 Tecnologias Futuras e Melhorias**
+
 Vue.js (ou React) poderá ser integrado para uma experiência de usuário mais dinâmica.
 
 Comentários e avaliações para as séries.
@@ -120,7 +123,8 @@ Integração com API de informações sobre séries (exemplo: TMDb API).
 
 Implementação de notificações por e-mail para avisar sobre novos episódios das séries favoritas.
 
-🔚 Conclusão
+## **🔚 Conclusão**
+
 Este projeto foi desenhado para ser simples e funcional, mas também flexível para crescer. Usando tecnologias modernas como Node.js, MongoDB, e Vercel, conseguimos criar uma aplicação escalável e de excelente performance.
 
 A escolha da arquitetura serverless e a utilização de JWT garantem que o projeto seja de baixo custo, seguro e fácil de escalar, tornando-o ideal para desenvolvimento e integração com outras plataformas.
